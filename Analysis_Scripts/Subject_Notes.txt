@@ -1,0 +1,82 @@
+%% Subject 8 (s8)
+Target category: 1
+Modalities recorded: Eyetracking EEG 
+
+%% Subject 9 (s9)
+Target category: 1
+Modalities recorded: Eyetracking EEG
+
+%% Subject 10 (s10)
+Target category: 1
+Modalities recorded: Eyetracking EEG
+
+%% Subject 11 (s11)
+Target category: 1
+Modalities recorded: Eyetracking EEG
+
+%% Subject 12 (s12)
+Target category: 1
+Modalities recorded: Eyetracking EEG
+
+%% Subject 13 (s13)
+Target category: 3
+Modalities recorded: Eyetracking EEG
+
+%% Subject 14 (s14)
+Target category: 3
+Modalities recorded: Eyetracking EEG
+
+%% Subject 15 (s15)
+Target category: 2
+Modalities recorded: Eyetracking EEG
+
+%% Subject 16 (s16)
+Target counted: 4
+Modalities recorded: Eyetracking EEG
+
+%% Subject 17 (s17)
+Target category: 2
+Modalities recorded: Eyetracking EEG 
+
+%% Subject 18 (s18)
+Target category: 2
+Modalities recorded: Eyetracking EEG 
+
+%% Subject 19 (s19)
+Target category: 2
+Modalities recorded: Eyetracking EEG
+
+%% Subject 20 (s20)
+Target category: 2
+Modalities recorded: Eyetracking EEG
+
+%% Subject 21 (s21)
+Target category: 2
+Modalities recorded: Eyetracking EEG
+
+%% Subject 22 (s22)
+Target category: 2
+Modalities recorded: Eyetracking EEG
+
+%% Subject 23 (s23)
+Target category: 2
+Modalities recorded: Eyetracking EEG
+
+%% Subject 24 (s24)
+Name: Leo
+Target category: 2
+Modalities recorded: Eyetracking EEG
+
+%% Subject 25 (s25)
+Target category: 2
+Modalities recorded: Eyetracking EEG
+
+%% Subject 26 (s26)
+Target category: 2
+Modalities recorded: Eyetracking EEG
+
+%% Subject 27 (s27)
+Target category: 2
+Modalities recorded: Eyetracking EEG
+
+
