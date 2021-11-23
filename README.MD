@@ -2,6 +2,9 @@
 
 ## Manuscript title: "Integrating neural and ocular reorienting signals in virtual reality".
 (Direct link to the journal article will be added here once article is published.)
+by Pawan Lapborisuth, Sharath Koorathota, Qi Wang and Paul Sajda.
+
+Data and preliminary analysis scripts for the NiDyN (Neurally-Informed Dynamic Navigation) project conducted by LIINC laboratory of Columbia University. 
 
 ## Link to data folder: https://www.dropbox.com/sh/k69xux4s9vqxa82/AACJhkescpLrVUvteS4tqKzZa?dl=0
 
