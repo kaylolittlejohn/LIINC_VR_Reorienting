@@ -1,6 +1,7 @@
-LIINC Attention Reorienting Data Repository
+## LIINC Attention Reorienting Data Repository
 
-Manuscript title: "Integrating neural and ocular reorienting signals in virtual reality"
+Manuscript title: "Integrating neural and ocular reorienting signals in virtual reality".
+
 Direct link to the journal article will be added here once article is published.
 
 Link to data folder: 
