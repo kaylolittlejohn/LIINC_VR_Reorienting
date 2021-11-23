@@ -13,7 +13,7 @@ Data and preliminary analysis scripts for the NiDyN (Neurally-Informed Dynamic N
   - Each subject folder contains 16 files, one per experimental run
   - Each file is labeled with the subject number, condition ('eye' = fixed condition; 'free' = free condition) and run number eg. s8_eye_1.xdf
   - Each file contains EEG, eyetracking and paradigm data (further details can be found in scripts located in the Analysis_Scripts folder)
-  - Detailed experimental design and data collection procedure can be found in the journal article linked at the beginning of this page
+  - Detailed experimental design and data collection procedure can be found in the published journal artcile linked above
   - All data were collected in accordance to the Columbia University Institutional Review Board procedure
   - To open .xdf file in MATLAB, please download EEGLAB (https://sccn.ucsd.edu/eeglab/download.php) and the xdfimport extension
 
