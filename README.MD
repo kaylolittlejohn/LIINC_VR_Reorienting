@@ -1,3 +1,10 @@
+# Contributions from Kaylo Littlejohn
+
+I was responsible for the following:
+  1. Significant involvement in critical early-stage efforts and the development of the original scientific hypotheses (2019-2020).
+  2. Development and design of the majority of the task, including hardware integration and programming environment (2018-2019).
+  3. Data collection and preliminary analysis, resulting in code used for the final paper (2019-2020).
+
 # LIINC Attention Reorienting Data Repository
 
 ## Manuscript title: "Integrating neural and ocular reorienting signals in virtual reality".
